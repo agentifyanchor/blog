@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agentify Anchor</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Agentify Anchor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 agentify anchor</copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 22:21:28 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jan 2025 22:21:28 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>A Fresh Perspective on Today&#39;s Topics</title>
-      <link>//localhost:1313/posts/2025-01-04-a-fresh-perspective-on-todays-topics/</link>
+      <link>http://localhost:1313/posts/2025-01-04-a-fresh-perspective-on-todays-topics/</link>
       <pubDate>Sat, 04 Jan 2025 22:21:28 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/2025-01-04-a-fresh-perspective-on-todays-topics/</guid>
+      <guid>http://localhost:1313/posts/2025-01-04-a-fresh-perspective-on-todays-topics/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>first post</title>
-      <link>//localhost:1313/posts/post/</link>
+      <link>http://localhost:1313/posts/post/</link>
       <pubDate>Sat, 04 Jan 2025 04:41:52 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post/</guid>
+      <guid>http://localhost:1313/posts/post/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post/featured.svg" />
     </item>
     
     <item>
       <title>new test post</title>
-      <link>//localhost:1313/posts/2025-01-04-new-test-post/</link>
+      <link>http://localhost:1313/posts/2025-01-04-new-test-post/</link>
       <pubDate>Sat, 04 Jan 2025 04:41:52 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/2025-01-04-new-test-post/</guid>
+      <guid>http://localhost:1313/posts/2025-01-04-new-test-post/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>My first post</title>
-      <link>//localhost:1313/posts/other-post/</link>
+      <link>http://localhost:1313/posts/other-post/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/other-post/</guid>
+      <guid>http://localhost:1313/posts/other-post/</guid>
       <description>This is my first post on my site</description>
       
     </item>
     
     <item>
       <title>first post</title>
-      <link>//localhost:1313/posts/post/</link>
+      <link>http://localhost:1313/posts/post/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/post/</guid>
+      <guid>http://localhost:1313/posts/post/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="//localhost:1313/posts/post/featured.svg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/post/featured.svg" />
     </item>
     
   </channel>
