@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Agentify Anchor</title>
-    <link>//localhost:1313/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Agentify Anchor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 agentify anchor</copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 22:21:28 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Jan 2025 22:21:28 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome</title>
-      <link>//localhost:1313/tags/welcome/</link>
+      <link>/tags/welcome/</link>
       <pubDate>Sat, 04 Jan 2025 22:21:28 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/welcome/</guid>
+      <guid>/tags/welcome/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Space</title>
-      <link>//localhost:1313/tags/space/</link>
+      <link>/tags/space/</link>
       <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tags/space/</guid>
+      <guid>/tags/space/</guid>
       <description></description>
       
     </item>
