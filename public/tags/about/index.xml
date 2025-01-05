@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ABOUT on Agentify Anchor</title>
+    <link>//localhost:1313/tags/about/</link>
+    <description>Recent content in ABOUT on Agentify Anchor</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2025 agentify anchor</copyright>
+    <lastBuildDate>Sat, 04 Jan 2025 22:11:28 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Discover My Journey: All About Me</title>
+      <link>//localhost:1313/discover-journey/</link>
+      <pubDate>Sat, 04 Jan 2025 22:11:28 +0000</pubDate>
+      
+      <guid>//localhost:1313/discover-journey/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>
