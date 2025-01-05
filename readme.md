@@ -17,5 +17,7 @@
     hugo server ✅ 
     site work fine in http://localhost:1313/
 
-- Step 4 : Integrate with Front matter    
+- Step 3 : Integrate with Front matter    
 Instable with beta version 😖
+
+- Step 4 : add git action workflow to build
