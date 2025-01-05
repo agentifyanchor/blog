@@ -59,6 +59,9 @@ jobs:
           hugo \
             --gc \
             --minify \
+            -E \
+            -F \
+            -d piblic \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
