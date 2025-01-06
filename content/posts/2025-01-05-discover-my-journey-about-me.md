@@ -5,9 +5,9 @@ date: 2025-01-05T03:21:30.867Z
 preview: ""
 draft: false
 tags: 
-    - Python
-    - Docker
-    - VSCode
+    - aboutme
+    - agentifyanchor
+    
 categories: []
 slug: discover-journey
 types: sample

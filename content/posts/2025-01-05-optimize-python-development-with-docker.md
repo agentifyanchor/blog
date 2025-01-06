@@ -4,7 +4,10 @@ description: ""
 date: 2025-01-05T22:47:31.510Z
 preview: ""
 draft: false
-tags: []
+tags: 
+    - Python
+    - Docker
+    - VSCode
 categories: []
 ---
 
