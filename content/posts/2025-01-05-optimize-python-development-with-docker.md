@@ -50,7 +50,7 @@ We can choose from a variety of preset configurations. In our case, we will sele
 
 ![](/images/post1/im5.png)
 
-Next, we can choose the version of Python we want to use. We can select any version we’re comfortable with.
+We’ll be prompted to choose the Python version for your container. Pick any version you’re comfortable with (we’ll go with `Python 3.12 bullseye`).
 
 ![](/images/post1/im6.png)
 
@@ -73,8 +73,6 @@ After running the wizard, we’ll end up with the following root project structu
 
 ![](/images/post1/im13.png)
 
-Once the `.devcontainer` folder is set up, there’s no need to build an image manually—the extension will handle that for us! We’re now ready to connect to the containerized environment and start using it as our development environment. We’ll explore this process in Part 2 of this post, so stay tuned!
+🎉 Once the `.devcontainer` folder is set up, there’s no need to build an image manually—the extension will handle that for us! We’re now ready to connect to the containerized environment and start using it as our development environment. We’ll explore this process in Part 2 of this post, so stay tuned!
 
-### Final Thoughts
-
-Congratulations to us for setting up our containerized Python development environment with VSCode and Docker! By using the Dev Container extension, we’ve made our development setup consistent and portable. Now we can focus on our projects without worrying about managing environments and dependencies. Happy coding, and see you in the next part!
+Happy coding, and see you in the next part!
