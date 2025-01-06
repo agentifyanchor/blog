@@ -142,7 +142,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   websiteid = "d22e0c99-911c-4679-a621-f063ceaebd59"
    domain = "agentifyanchor.github.io"
    dataDomains = "agentifyanchor.github.io"
-  # scriptName = "<script defer src="https://cloud.umami.is/script.js" data-website-id="d22e0c99-911c-4679-a621-f063ceaebd59"></script>"
+  scriptName = "script.js"
    enableTrackEvent = true
 
 [selineAnalytics]
