@@ -142,7 +142,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   websiteid = "d22e0c99-911c-4679-a621-f063ceaebd59"
    domain = "agentifyanchor.github.io"
    dataDomains = "agentifyanchor.github.io"
-  scriptName = "script.js"
+  #scriptName = "script.js"
    enableTrackEvent = true
 
 [selineAnalytics]
