@@ -78,11 +78,12 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showTableOfContents = false
   # showRelatedContent = false
   # relatedContentLimit = 3
-  showTaxonomies = false
+  showTaxonomies = true
   showAuthorsBadges = true
   showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
-  showZenMode = false
+  sharingLinks = [ "linkedin", "twitter", "reddit", "email", "whatsapp", "telegram"]
+  #sharingLinks = [ "linkedin", "twitter", "bluesky", "mastodon", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  showZenMode = true
 
 [list]
   showHero = false
