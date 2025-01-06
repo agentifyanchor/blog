@@ -1,0 +1,31 @@
+
+
+![](/images/post1/im10.png)
+![](/images/post1/im11.png)
+![](/images/post1/im12.png)
+![](/images/post1/im13.png)
+
+After configuring the devcontainer, we don't need to create or build any image. The extension will manage this for us. From there, we can connect to the environment and start using this container as our development environment.
+ -----------------------------------
+
+
+
+ lets create some project inside we suppose we work in defrent project here so we have a project1 and project2
+ to made this post simple our apps just will display a message
+
+
+![[../images/Pasted image 20250103125030.png]]
+
+
+
+![[../images/Pasted image 20250103130214.png]]
+
+
+![[../images/Pasted image 20250103130346.png]]
+
+![[../images/Pasted image 20250103130429.png]]
+![[../images/Pasted image 20250103130525.png]]
+
+![[../images/Pasted image 20250103130609.png]]
+
+![](/static/images/post1/Pasted%20image%2020250103125030.png)

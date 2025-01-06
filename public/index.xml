@@ -2,61 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agentify Anchor</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content on Agentify Anchor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 agentify anchor</copyright>
-    <lastBuildDate>Sat, 04 Jan 2025 22:21:28 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jan 2025 22:47:31 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>A Fresh Perspective on Today&#39;s Topics</title>
-      <link>/posts/2025-01-04-a-fresh-perspective-on-todays-topics/</link>
-      <pubDate>Sat, 04 Jan 2025 22:21:28 +0000</pubDate>
+      <title>Optimize Python Development with VsCode and Docker</title>
+      <link>//localhost:1313/posts/2025-01-05-optimize-python-development-with-docker/</link>
+      <pubDate>Sun, 05 Jan 2025 22:47:31 +0000</pubDate>
       
-      <guid>/posts/2025-01-04-a-fresh-perspective-on-todays-topics/</guid>
+      <guid>//localhost:1313/posts/2025-01-05-optimize-python-development-with-docker/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>first post</title>
-      <link>/posts/post/</link>
-      <pubDate>Sat, 04 Jan 2025 04:41:52 +0000</pubDate>
+      <title>Optimize Python Development with VSCode and Docker</title>
+      <link>//localhost:1313/posts/2025-01-05-a-demo-file/</link>
+      <pubDate>Sun, 05 Jan 2025 22:47:31 +0000</pubDate>
       
-      <guid>/posts/post/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post/featured.svg" />
-    </item>
-    
-    <item>
-      <title>new test post</title>
-      <link>/posts/2025-01-04-new-test-post/</link>
-      <pubDate>Sat, 04 Jan 2025 04:41:52 +0000</pubDate>
-      
-      <guid>/posts/2025-01-04-new-test-post/</guid>
+      <guid>//localhost:1313/posts/2025-01-05-a-demo-file/</guid>
       <description></description>
       
     </item>
     
     <item>
-      <title>My first post</title>
-      <link>/posts/other-post/</link>
-      <pubDate>Mon, 14 Aug 2023 00:00:00 +0000</pubDate>
+      <title>Discover My Journey: About Me</title>
+      <link>//localhost:1313/posts/discover-journey/</link>
+      <pubDate>Sun, 05 Jan 2025 03:21:30 +0000</pubDate>
       
-      <guid>/posts/other-post/</guid>
-      <description>This is my first post on my site</description>
-      
-    </item>
-    
-    <item>
-      <title>first post</title>
-      <link>/posts/post/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/post/</guid>
+      <guid>//localhost:1313/posts/discover-journey/</guid>
       <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/posts/post/featured.svg" />
+      
     </item>
     
   </channel>
