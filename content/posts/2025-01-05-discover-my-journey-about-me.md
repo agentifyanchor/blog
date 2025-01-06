@@ -7,7 +7,6 @@ draft: false
 tags: 
     - aboutme
     - agentifyanchor
-    
 categories: []
 slug: discover-journey
 types: sample
