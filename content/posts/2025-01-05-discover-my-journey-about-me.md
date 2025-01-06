@@ -19,5 +19,5 @@ I'm a **Microsoft Specialist** 💻 with a deep passion for **AI** 🤖. Over th
 My journey is all about exploring new technologies, automating workflows, and applying AI in innovative ways. I’m excited to share my insights and experiences with you, and I hope to learn and grow together in this tech journey! 🌟
 
 {{< alert "twitter" >}}
-Don't forget to [follow me](https://twitter.com/nunocoracao) on Twitter. 🐦
+Don't forget to [follow me](https://x.com/AgentifyAnchor) on Twitter. 🐦
 {{< /alert >}}
