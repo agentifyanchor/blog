@@ -129,6 +129,26 @@
 
 
 
+<script data-id="umami-script" async
+        src="https://agentifyanchor.github.io/script.js"
+        data-website-id="d22e0c99-911c-4679-a621-f063ceaebd59"
+        data-domains="agentifyanchor.github.io">
+</script>
+
+
+
+<script type="text/javascript">
+    document.querySelector('script[data-id="umami-script"]')
+        .addEventListener('load', function () {
+            const type = document.head.querySelector('meta[property = "og:type"]').getAttribute('content');
+            let title = document.head.querySelector('meta[property = "og:title"]').getAttribute('content');
+            let url = document.head.querySelector('meta[property = "og:url"]').getAttribute('content');
+            umami.track(type + ':' + title, {'url': url});
+    });
+</script>
+
+
+
   
   
   <meta name="theme-color"/>

@@ -139,11 +139,11 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   # domain = "llama.yoursite.com"
 
 [umamiAnalytics]
-  # websiteid = "ABC12345"
-  # domain = "llama.yoursite.com"
-  # dataDomains = "yoursite.com,yoursite2.com"
-  # scriptName = ""
-  # enableTrackEvent = true
+  websiteid = "d22e0c99-911c-4679-a621-f063ceaebd59"
+   domain = "agentifyanchor.github.io"
+   dataDomains = "agentifyanchor.github.io"
+  # scriptName = "<script defer src="https://cloud.umami.is/script.js" data-website-id="d22e0c99-911c-4679-a621-f063ceaebd59"></script>"
+   enableTrackEvent = true
 
 [selineAnalytics]
   # token = "XXXXXX"
