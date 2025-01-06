@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Agentify Anchor</title>
-    <link>//localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Agentify Anchor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 agentify anchor</copyright>
-    <lastBuildDate>Sun, 05 Jan 2025 22:47:31 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jan 2025 22:47:31 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Optimize Python Development with VSCode and Docker</title>
-      <link>//localhost:1313/posts/2025-01-05-optimize-python-development-with-docker/</link>
+      <link>http://localhost:1313/posts/2025-01-05-optimize-python-development-with-docker/</link>
       <pubDate>Sun, 05 Jan 2025 22:47:31 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/2025-01-05-optimize-python-development-with-docker/</guid>
+      <guid>http://localhost:1313/posts/2025-01-05-optimize-python-development-with-docker/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Discover My Journey: About Me</title>
-      <link>//localhost:1313/posts/discover-journey/</link>
+      <link>http://localhost:1313/posts/discover-journey/</link>
       <pubDate>Sun, 05 Jan 2025 03:21:30 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/discover-journey/</guid>
+      <guid>http://localhost:1313/posts/discover-journey/</guid>
       <description></description>
       
     </item>
