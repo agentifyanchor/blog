@@ -21,3 +21,5 @@
 Instable with beta version 😖
 
 - Step 4 : add git action workflow to build
+
+- Step 5 : Domain Name not working
