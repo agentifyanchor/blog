@@ -78,4 +78,4 @@ After running the wizard, we’ll end up with the following root project structu
 
 🎉 Once the `.devcontainer` folder is set up, there’s no need to build an image manually—the extension will handle that for us! We’re now ready to connect to the containerized environment and start using it as our development environment. We’ll explore this process in Part 2 of this post, so stay tuned!
 
-Happy coding, and see you in the [`next part`](/posts/2025-01-08-streamline-python-development-in-devcontainer-with-uv/)!
+Happy coding, and see you in the [`next part`](/blog/posts/2025-01-08-streamline-python-development-in-devcontainer-with-uv/)!

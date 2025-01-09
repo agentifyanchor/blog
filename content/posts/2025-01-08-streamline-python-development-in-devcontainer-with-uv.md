@@ -16,7 +16,7 @@ categories: []
 types: ""
 ---
 
-In our series exploring how to set up a streamlined and organized way to start your Python development journey using the **DevContainer VSCode extension** and **Docker** (or WSL/Podman), we've already seen how simple it is to define our development environment using just the DevContainer extension. Now, we're ready to move on to the next part of the series: [Optimize Python Development with VSCode and Docker](https://agentifyanchor.github.io/blog/posts/2025-01-05-optimize-python-development-with-docker/).
+In our series exploring how to set up a streamlined and organized way to start your Python development journey using the **DevContainer VSCode extension** and **Docker** (or WSL/Podman), we've already seen how simple it is to define our development environment using just the DevContainer extension. Now, we're ready to move on to the next part of the series: [Optimize Python Development with VSCode and Docker](/blog/posts/2025-01-05-optimize-python-development-with-docker/).
 
 ### Running Our Environment for the First Time
 
@@ -33,7 +33,7 @@ After generating the definition for our environment, we now have a **devcontaine
    **Note**: You can also use a **local image** if you prefer. use DockerFile or Docker compose file.
 
 2. **Features Section**:  
-   Think of this section as a way to **enhance the environment** with additional tools and packages. In our case, we’re using `uv`😁 (with shellautocompletion option enbaled) as an added configuration for this feature.
+   Think of this section as a way to **enhance the environment** with additional tools and packages. In our case, we’re using `uv` (with shellautocompletion option enbaled).
 
 2. **customization Section**: 
    The **`customization`** section is used to fine-tune the container development environment. It allows us to install additional extensions that will only be loaded inside the container, apply specific settings related to VSCode preferences, and execute additional commands.
