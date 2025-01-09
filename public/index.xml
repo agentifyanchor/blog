@@ -7,7 +7,27 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 agentify anchor</copyright>
-    <lastBuildDate>Sun, 05 Jan 2025 22:47:31 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2025 01:59:42 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Run MySQL in a Docker Container: A Beginner&#39;s Guide</title>
+      <link>http://localhost:1313/posts/2025-01-08-run-mysql-in-a-docker-container-a-beginners-guide/</link>
+      <pubDate>Wed, 08 Jan 2025 01:59:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2025-01-08-run-mysql-in-a-docker-container-a-beginners-guide/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Streamline Python Development in DevContainer with UV</title>
+      <link>http://localhost:1313/posts/2025-01-08-streamline-python-development-in-devcontainer-with-uv/</link>
+      <pubDate>Wed, 08 Jan 2025 01:28:12 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2025-01-08-streamline-python-development-in-devcontainer-with-uv/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Optimize Python Development with VSCode and Docker</title>
