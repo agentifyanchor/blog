@@ -92,9 +92,6 @@
     {{ with .Site.Params.verification.google }}
     <meta name="google-site-verification" content="{{ . }}" />
     {{ end }}
-    {{ with .Site.Params.verification.bing }}
-    <meta name="msvalidate.01" content="{{ . }}" />
-    {{ end }}
     {{ with .Site.Params.verification.pinterest }}
     <meta name="p:domain_verify" content="{{ . }}" />
     {{ end }}
@@ -103,6 +100,9 @@
     {{ end }}
     {{ with .Site.Params.verification.fediverse }}
     <meta name="fediverse:creator" content="{{ . }}" />
+    {{ end }}
+    {{ with .Site.Params.verification.bing }}
+    <meta name="msvalidate.01" content="{{ . }}" />
     {{ end }}
     {{/* Social */}}
     {{ template "_internal/opengraph.html" . }}
