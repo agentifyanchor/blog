@@ -79,7 +79,7 @@ Let’s perform a couple more checks by verifying the Python version being used 
 ![Python Version Check](/images/post2/im31.png)  
 ![Testing `uv`](/images/post2/im30.png)
 
-Everything seems good so far! The next step is to create our first project and run it. That’s exactly what we’ll cover in the **next post**. 
+Everything seems good so far! The next step is to create our first project and run it. That’s exactly what we’ll cover in the [**next post**](https://agentifyanchor.github.io/blog/posts/2025-01-12-getting-started-with-uv-in-docker-step-3-explained/). 
 
 **Stay tuned!** 
 

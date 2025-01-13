@@ -16,7 +16,7 @@ categories: []
 types: ""
 ---
 
-To conclude this series on using UV for developing Python projects within a portable environment using containers, we will create a sample project and experiment with UV.
+To conclude this [series](https://agentifyanchor.github.io/blog/posts/2025-01-05-optimize-python-development-with-docker/) on using UV for developing Python projects within a portable environment using containers, we will create a sample project and experiment with UV.
 
 In our scenario, we will keep it simple. Our requirement is as follows:
 A store needs an API to return a list of products and filter these products by availability.
