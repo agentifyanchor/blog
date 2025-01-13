@@ -154,6 +154,6 @@ If you remember, we configured our initial environment to use Python 3.12, but w
 
 In this post, we have successfully set up a Python project using UV, ensuring that we can go live with our container and start our productive approach with Dev Containers.
 
-You can find the complete source code for this demo on [GitHub](https://github.com/agentifyanchor/uv_docker_lab01). If you’re a fan of Dockerfiles and prefer to manage your development environment manually, refer to this project, which uses the official UV Dockerfile definition. [GitHub](https://github.com/agentifyanchor/uv_docker_lab02).
+You can find the complete source code for this demo on [GitHub](https://github.com/agentifyanchor/uv_docker_lab01). If you’re a fan of Dockerfiles and prefer to manage your development environment manually, refer to this [project](https://github.com/agentifyanchor/uv_docker_lab02), which uses the official UV Dockerfile definition. 
 
 Cheers! 🍻
