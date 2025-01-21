@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 agentify anchor</copyright>
-    <lastBuildDate>Sun, 12 Jan 2025 17:48:01 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Jan 2025 17:07:40 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building a Free Custom Engine Agent for Microsoft Teams Without Microsoft 365 Copilot: Leveraging Ollama with Llama3.2</title>
+      <link>http://localhost:1313/posts/2025-01-20-building-a-free-bot-based-message-extension-for-microsoft-teams-without-microsoft-365-copilot-leveraging-ollama-with-llama32/</link>
+      <pubDate>Mon, 20 Jan 2025 17:07:40 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2025-01-20-building-a-free-bot-based-message-extension-for-microsoft-teams-without-microsoft-365-copilot-leveraging-ollama-with-llama32/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Getting Started with UV in Docker</title>
