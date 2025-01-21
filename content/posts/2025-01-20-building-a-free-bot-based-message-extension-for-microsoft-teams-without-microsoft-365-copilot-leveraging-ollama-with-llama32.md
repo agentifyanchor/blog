@@ -53,7 +53,7 @@ docker compose --profile cpu up
 
 #### 1.1 check model pulling
 
-So after a while, we can check our service by running the curl command:
+After a while, we can check our service by running the curl command:
 
 ```sh
 curl -X GET http://localhost:11434/v1/models
