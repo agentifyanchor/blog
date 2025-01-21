@@ -9,7 +9,7 @@ categories: []
 types: ""
 ---
 
-In this blog post, I will guide you through how to create a bot-based message extension for Microsoft Teams, without the necessity of the [Microsoft 365 Copilot license](https://learn.microsoft.com/en-us/microsoftteams/platform/sbs-messagingextension-searchcommand-plugin?tutorial-step=1) or waiting until joining the Microsoft 365 Developer Technology Adoption Program [(TAP)](https://developer.microsoft.com/en-us/microsoft-365/tap)
+In this blog post, I will guide you through creating a bot-based message extension for Microsoft Teams, without the necessity of the [Microsoft 365 Copilot license](https://learn.microsoft.com/en-us/microsoftteams/platform/sbs-messagingextension-searchcommand-plugin?tutorial-step=1) or waiting until joining the Microsoft 365 Developer Technology Adoption Program [(TAP)](https://developer.microsoft.com/en-us/microsoft-365/tap)
 
 While Microsoft 365 Copilot provides enhanced features for enterprise users, you can still build powerful bots using Ollama, a locally run model like Llama3.2, to handle natural language processing.
 
@@ -64,7 +64,7 @@ If the model(s) are available, we should get a response as shown below:
 
 #### 1.2 check completions endpoint
 
-After the model is loaded successfully, we can proceed with running some prompts:
+After the model loads successfully, we can proceed with running some prompts:
 ```sh
  curl -X POST http://localhost:11434/v1/chat/completions \
   -H "Content-Type: application/json" \
