@@ -39,8 +39,6 @@ This resource offers a step-by-step approach, code samples and vedios accessible
 
 ## What’s inside?
 
-## What’s inside?
-
 - 21 lessons labeled "Learn" or "Build"
 - Python and TypeScript code examples to explain concepts
 - Interactive exercises and the possibility to meet other classmates and get support through an official Discord server
