@@ -29,22 +29,21 @@ categories: []
 types: ""
 ---
 
-# Unlock the Power of Generative AI: A Complete Learning Resource for Beginners and Beyond
+# Complete Generative AI Learning Resource for Beginners
 
-Generative AI is reshaping industries, creating new opportunities for innovation and efficiency. Whether you're just starting your AI journey or looking to refine your expertise, we’ve got you covered.
+You are inetrested by Generative AI and you dont know from where you can start or looking to refine your your expertise, we’ve got you covered.
 
-I am excited to share a comprehensive learning resource provided by Microsoft that takes you from the fundamentals of AI to sophisticated applications like Retrieval-Augmented Generation (RAG), securing generative AI applications, and LLMOps. This resource offers a step-by-step approach, making complex concepts accessible while preparing you for real-world challenges.
+I am excited to share with you a great comprehensive learning resource provided by Microsoft that takes you from the fundamentals of Generative AI like building your own, propmt concept, fine tuning to sophisticated concepts like Retrieval-Augmented Generation (RAG), securing generative AI applications, and LLMOps.
+
+This resource offers a step-by-step approach, code samples and vedios accessible while preparing you for real-world challenges.
 
 ## What’s inside?
 
-- **AI Fundamentals:** Understand the core principles of AI, machine learning, and deep learning.
-- **Generative Models Explained:** Dive into how generative models work and explore practical applications in real-world scenarios.
-- **Advanced Topics:** Learn about cutting-edge topics like RAG, secure AI applications, and LLMOps.
-- **Hands-on Practice:** Gain practical experience with code samples and hands-on exercises designed to solidify your learning.
+## What’s inside?
 
-The best part? You can access the full set of hands-on materials, including code samples and environments, directly on GitHub. This provides a seamless way to apply your knowledge and experiment with real-world examples.
-
-By following this curated learning path, you’ll develop a deep understanding of both the theory and practice of generative AI. Whether you're a developer, researcher, or business leader, this resource will provide the knowledge you need to build innovative solutions.
+- 21 lessons labeled "Learn" or "Build"
+- Python and TypeScript code examples to explain concepts
+- Interactive exercises and the possibility to meet other classmates and get support through an official Discord server
 
 ## Start learning today!
 
