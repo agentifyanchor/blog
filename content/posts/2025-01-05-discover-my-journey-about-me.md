@@ -12,7 +12,7 @@ slug: discover-journey
 types: sample
 ---
 
-Hello! 👋
+Hello! 👋 I am the firend of Moh. D 😁  and I love eating 🍕🍕🍕
 
 I'm a **Microsoft Specialist** 💻 with a deep passion for **AI** 🤖. Over the years, I've become fascinated by optimizing development environments, especially in the world of **Python** 🐍, **Docker** 🐋, and **VSCode** 🖥️. I’m always looking for ways to simplify complex tasks and make development smoother, which is why I love using containers and powerful tools to create consistent and portable setups. 
 
