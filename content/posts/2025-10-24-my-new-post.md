@@ -3,11 +3,10 @@ title: my new post
 description: ""
 date: 2025-10-24T01:03:41.368Z
 preview: ""
-draft: true
+draft: false
 tags: [copilot]
 categories: []
 types: ""
 ---
-- ```
-# a test
-```
+ 
+ ## This is my new post
