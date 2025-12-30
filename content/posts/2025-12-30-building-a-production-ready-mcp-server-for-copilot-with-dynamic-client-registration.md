@@ -24,7 +24,13 @@ types: ""
 
 # 🚀 New Year's Gift: Automating MCP Connections for Copilot Agents
 
-First off, a huge shoutout to **Tobias Maestrini**, whose article *[Developing an MCP scenario with TypeScript](https://tmaestrini.github.io/topics/developing-an-mcp-scenario-with-typescript-a-production-ready-reference-implementation)* (and [GitHub sample](https://github.com/tmaestrini/mcp-typescript-sample)) paved the way one month ago. It was the spark that got me curious: **How can we create an MCP Server specifically for Copilot Agents?**
+First off, a huge shoutout to **Tobias Maestrini** and **Pamela Fox**.
+
+Tobias's article *[Developing an MCP scenario with TypeScript](https://tmaestrini.github.io/topics/developing-an-mcp-scenario-with-typescript-a-production-ready-reference-implementation)* paved the way for the TypeScript implementation and demonstrated the core **On-Behalf-Of (OBO)** flow.
+
+Meanwhile, Pamela's deep dive into *[Building MCP Servers with Python and Azure](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/learn-how-to-build-mcp-servers-with-python-and-azure/4479402)* was instrumental in understanding the broader complexities of MCP authentication and concepts like **DCR** and **CIMD**.
+
+These resources sparked the curiosity: **How can we create a seamless, production-ready MCP Server specifically for Copilot Agents?**
 
 While building this, I discovered a major hurdle in how the Power Platform (which powers Copilot Studio) handles custom connectors. It doesn't use a static Redirect URI. Instead, it generates a unique, dynamic one for every single connection!
 
