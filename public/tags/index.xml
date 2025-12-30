@@ -7,7 +7,127 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 agentify anchor</copyright>
-    <lastBuildDate>Tue, 21 Jan 2025 18:26:45 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 Dec 2025 03:08:13 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Authentication</title>
+      <link>http://localhost:1313/tags/authentication/</link>
+      <pubDate>Tue, 30 Dec 2025 03:08:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/authentication/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Authorization</title>
+      <link>http://localhost:1313/tags/authorization/</link>
+      <pubDate>Tue, 30 Dec 2025 03:08:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/authorization/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Azure AD</title>
+      <link>http://localhost:1313/tags/azure-ad/</link>
+      <pubDate>Tue, 30 Dec 2025 03:08:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/azure-ad/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Copilot</title>
+      <link>http://localhost:1313/tags/copilot/</link>
+      <pubDate>Tue, 30 Dec 2025 03:08:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/copilot/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dynamic Client Registration</title>
+      <link>http://localhost:1313/tags/dynamic-client-registration/</link>
+      <pubDate>Tue, 30 Dec 2025 03:08:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/dynamic-client-registration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Graph API</title>
+      <link>http://localhost:1313/tags/graph-api/</link>
+      <pubDate>Tue, 30 Dec 2025 03:08:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/graph-api/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Identity</title>
+      <link>http://localhost:1313/tags/identity/</link>
+      <pubDate>Tue, 30 Dec 2025 03:08:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/identity/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>MCP</title>
+      <link>http://localhost:1313/tags/mcp/</link>
+      <pubDate>Tue, 30 Dec 2025 03:08:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/mcp/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Microsoft Graph</title>
+      <link>http://localhost:1313/tags/microsoft-graph/</link>
+      <pubDate>Tue, 30 Dec 2025 03:08:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/microsoft-graph/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OAuth2</title>
+      <link>http://localhost:1313/tags/oauth2/</link>
+      <pubDate>Tue, 30 Dec 2025 03:08:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/oauth2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>OIDC</title>
+      <link>http://localhost:1313/tags/oidc/</link>
+      <pubDate>Tue, 30 Dec 2025 03:08:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/oidc/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>TypeScript</title>
+      <link>http://localhost:1313/tags/typescript/</link>
+      <pubDate>Tue, 30 Dec 2025 03:08:13 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/typescript/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>AIApplications</title>
@@ -215,16 +335,6 @@
       <pubDate>Mon, 20 Jan 2025 17:07:40 +0000</pubDate>
       
       <guid>http://localhost:1313/tags/bot/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Copilot</title>
-      <link>http://localhost:1313/tags/copilot/</link>
-      <pubDate>Mon, 20 Jan 2025 17:07:40 +0000</pubDate>
-      
-      <guid>http://localhost:1313/tags/copilot/</guid>
       <description></description>
       
     </item>
