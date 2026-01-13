@@ -6,8 +6,18 @@
     <description>Recent content in Posts on Agentify Anchor</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2025 agentify anchor</copyright>
-    <lastBuildDate>Tue, 30 Dec 2025 03:08:13 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2026 agentify anchor</copyright>
+    <lastBuildDate>Tue, 13 Jan 2026 04:43:46 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Mastering PAC CLI for Copilot Studio: A Guide to Creating, Extracting, and Publishing Agents</title>
+      <link>http://localhost:1313/posts/2026-01-13-mastering-pac-cli-for-copilot-studio-a-guide-to-creating-extracting-and-publishing-agents/</link>
+      <pubDate>Tue, 13 Jan 2026 04:43:46 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2026-01-13-mastering-pac-cli-for-copilot-studio-a-guide-to-creating-extracting-and-publishing-agents/</guid>
+      <description></description>
+      
+    </item>
     
     <item>
       <title>Building a Production-Ready MCP Server for Copilot with Dynamic Client Registration</title>
@@ -45,6 +55,16 @@
       <pubDate>Sun, 12 Jan 2025 17:48:01 +0000</pubDate>
       
       <guid>http://localhost:1313/posts/2025-01-12-getting-started-with-uv-in-docker-step-3-explained/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Run MySQL in a Docker Container: A Beginner&#39;s Guide</title>
+      <link>http://localhost:1313/posts/2025-01-08-run-mysql-in-a-docker-container-a-beginners-guide/</link>
+      <pubDate>Wed, 08 Jan 2025 01:59:42 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/2025-01-08-run-mysql-in-a-docker-container-a-beginners-guide/</guid>
       <description></description>
       
     </item>
